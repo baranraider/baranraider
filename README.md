@@ -1,4 +1,4 @@
-### Hi I'm Alex
+### 👋 Hello, I'm ra1der. I am interested in the FiveM platform and I am still in the learning phase.
 
 
 
