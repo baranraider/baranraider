@@ -13,3 +13,5 @@
 
 ##
 <div align="left"><img src="https://gpvc.arturio.dev/baranraider%22/%3E</div>
+
+![](https://komarev.com/ghpvc/?username=baranraider)
