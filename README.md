@@ -11,7 +11,27 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-##
-<div align="left"><img src="https://gpvc.arturio.dev/baranraider%22/%3E</div>
+const axios = require("axios")
 
-![](https://komarev.com/ghpvc/?username=baranraider)
+// Retrieve existing counter and increment for this view
+// See https://docs.pipedream.com/workflows/steps/code/state/
+const counter = $checkpoint + 1 || 1
+
+// Use shields.io to generate a badge with our counter as the message
+const { data } = await axios({
+  url: `https://img.shields.io/static/v1?label=Profile-Views&message=${counter}&color=green`,
+})
+
+// Save the incremented counter back to state
+$checkpoint = counter
+
+// See https://docs.pipedream.com/workflows/steps/triggers/#customizing-the-http-response
+$respond({
+  status: 200,
+  headers: {
+    'Content-Type': 'image/svg+xml',
+    'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate'
+  },
+  body: data,
+}) 
+
