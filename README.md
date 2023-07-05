@@ -1,4 +1,4 @@
-### 👋 Hello, I'm ra1der. I am interested in the FiveM platform and I am still in the learning phase.
+### 👋 Hello, I'm ra1der, I'm interested in the lua software language on the fivem platform. I'm not a completely knowledgeable person yet, I'm learning. I will continue to learn.
 
 
 
