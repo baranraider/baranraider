@@ -1,5 +1,4 @@
-### 👋 Hello, I'm ra1der, I'm interested in the lua software language on the fivem platform. I'm not a completely knowledgeable person yet, I'm learning. I will continue to learn.
-
+### 👋 Hello, I'm ra1der. I'm a back end developer on Fivem, there's still a lot I don't know, I'm learning and I'll continue to learn.
 
 
 ## Socials
