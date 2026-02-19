@@ -1,63 +1,50 @@
-<h1 align="center">👋 Hi, I'm ra1der</h1>
-<h3 align="center">FiveM Backend Developer</h3>
-
+<h1 align="center">ra1der</h1>
 <p align="center">
-  I build systems for FiveM.<br/>
-  Still learning. Still improving. Always building.
+  <b>FiveM Backend Developer</b><br/>
+  Building systems. Improving architecture. Shipping clean code.
 </p>
 
----
-
-## 🚀 About Me
-
-- 🔧 Backend developer focused on **FiveM**
-- 🧠 Constantly learning new systems & improving architecture
-- ⚙️ Working with performance-oriented game scripts
-- 📦 Building clean, optimized & scalable resources
-
----
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://discord.gg/35store">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://twitch.tv/ra1derlive">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+<p align="center">
+  <a href="https://discord.gg/wilddev">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2"/>
   </a>
   <a href="https://www.youtube.com/channel/UCgSXZ-Vmasr5-tgzjpAmSyA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+## ⚡ Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,js,html" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baranraider&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranraider&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baranraider&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranraider&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" height="165"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baranraider&color=blueviolet&style=for-the-badge"/>
-</p>
+## 🧠 Focus
+
+- Backend systems for FiveM  
+- Performance optimized scripts  
+- Clean & scalable resource architecture  
+- Continuous improvement mindset  
 
 ---
 
 <p align="center">
-  ⚡ “Consistency beats motivation.”
+  <img src="https://komarev.com/ghpvc/?username=baranraider&color=111111&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>“Consistency > Motivation.”</i>
 </p>
