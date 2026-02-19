@@ -15,6 +15,20 @@
 
 ---
 
+## 💬 Personal Discord
+
+<p align="center">
+  <a href="https://discord.com/users/520884813041893377">
+    <img src="https://img.shields.io/badge/ra1der-Add%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <code>520884813041893377</code>
+</p>
+
+---
+
 ## ⚡ Stack
 
 <p>
