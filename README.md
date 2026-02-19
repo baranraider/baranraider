@@ -15,7 +15,10 @@
 
 ---
 
-## 💬 Personal Discord
+## 
+<p align="center">
+  <b>💬 Personal Discord
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/520884813041893377">
