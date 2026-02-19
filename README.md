@@ -4,18 +4,9 @@
   Building systems. Improving architecture. Shipping clean code.
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/wilddev">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCgSXZ-Vmasr5-tgzjpAmSyA">
-    <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
-  </a>
-</p>
 
+---
 
-
-## 
 <p align="center">
   <b>💬 Personal Discord
 </p>
