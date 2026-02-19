@@ -11,19 +11,18 @@
   <a href="https://www.youtube.com/channel/UCgSXZ-Vmasr5-tgzjpAmSyA">
     <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
   </a>
-</p>
-
----
-
-<p align="center">
+  <p align="center">
   <b>💬 Personal Discord
-</p>
 
 <p align="center">
   <a href="https://discord.com/users/520884813041893377">
     <img src="https://img.shields.io/badge/ra1der-Add%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+
+---
+
+
 
 
 ---
