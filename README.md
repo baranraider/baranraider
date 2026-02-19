@@ -35,22 +35,14 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baranraider&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranraider&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" height="165"/>
-</p>
-
----
 
 ## 🧠 Focus
-
+<p align="center">
 - Backend systems for FiveM  
 - Performance optimized scripts  
 - Clean & scalable resource architecture  
 - Continuous improvement mindset  
-
+</p>
 ---
 
 <p align="center">
