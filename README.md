@@ -1,4 +1,5 @@
 <h1 align="center">ra1der</h1>
+
 <p align="center">
   <b>FiveM Backend Developer</b><br/>
   Building systems. Improving architecture. Shipping clean code.
@@ -11,8 +12,11 @@
   <a href="https://www.youtube.com/channel/UCgSXZ-Vmasr5-tgzjpAmSyA">
     <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
   </a>
-  <p align="center">
-  <b>💬 Personal Discord
+</p>
+
+<p align="center">
+  💬 <b>Personal Discord</b>
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/520884813041893377">
@@ -22,27 +26,21 @@
 
 ---
 
-
-
-
----
-
 ## ⚡ Stack
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=lua,js,html" />
 </p>
 
 ---
 
-
 ## 🧠 Focus
-<p align="center">
+
 - Backend systems for FiveM  
 - Performance optimized scripts  
 - Clean & scalable resource architecture  
 - Continuous improvement mindset  
-</p>
+
 ---
 
 <p align="center">
@@ -50,5 +48,5 @@
 </p>
 
 <p align="center">
-  <i>“Consistency > Motivation.”</i>
+  <i>Consistency > Motivation.</i>
 </p>
