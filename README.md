@@ -29,9 +29,8 @@
 ## ⚡ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,react,vue,vite" />
+  <img src="https://skillicons.dev/icons?i=lua,css,js,html,ts,react,vue,scss" />
 </p>
-
 
 ---
 
